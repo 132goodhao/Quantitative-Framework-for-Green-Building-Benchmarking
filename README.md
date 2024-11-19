@@ -74,6 +74,8 @@ The core codes is organized into three parts:
 
 **Flexibility:** This framework can be adapted to datasets from other regions or contexts, provided the data structure aligns with the input requirements of the scripts.
 
+![image]()
+
 ---
 
 ## How to Use This Repository
